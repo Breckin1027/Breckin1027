@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Breckin Lukehart
+Computer Science Major | Programming Enthusiast
 
-<!--
-**Breckin1027/Breckin1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+* Languages: Java, Python, C++, C#
+* IDEs: Intellij, PyCharm, CLion, VSCode
 
-Here are some ideas to get you started:
+## 🎮 Projects
+* **Isometric Game (Python)**: This project implemented lighting mechanics, an inventory system, dynamic world generation, and files for saved games.
+* **Math Tutor Program (C++)**: This project implemented random question generation, dynamic question difficulty, error checking, and files for saved progress.
+* **Bank Account Program (Java)**: This project implemented user inputs like adding an account name, depositing, and withdrawals, OOP principles, and error checking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning & Interests
+* Currently studying Computer Science
+* Programming applications and games
+* Basic Networking and Database concepts
+
+## 🎓 Education
+* HS Grad, Millard South, 2024
+* A.A., Metropolitan Community College, 2024
+* B.A., Computer Science, Wayne State College, Expected Completion: 2027
+
+## 📫 How to Reach Me
+* **Email**: [BrLuke01@wsc.edu](mailto:brluke01@wsc.edu)
+* **LinkedIn**: [Breckin Lukehart](https://www.linkedin.com/in/breckin-lukehart-834996350/)
+
