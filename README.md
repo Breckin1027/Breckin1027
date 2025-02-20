@@ -8,7 +8,7 @@ Computer Science Major | Programming Enthusiast
 ## 🎮 Projects
 * **Isometric Game (Python)**: This project implemented lighting mechanics, an inventory system, dynamic world generation, and files for saved games.
 * **Math Tutor Program (C++)**: This project implemented random question generation, dynamic question difficulty, error checking, and files for saved progress.
-* **Bank Account Program (Java)**: This project implemented user inputs like adding an account name, depositing, and withdrawals, OOP principles, and error checking
+* **Ecosystem Simulator (Java)**: This project implemented user creation/deletion of creatures, OOP concepts, and complete simulation of all user created objects.
 
 ## 📚 Learning & Interests
 * Currently studying Computer Science
